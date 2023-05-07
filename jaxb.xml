@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addresses>
+    <city size="Big">
+        <building>50</building>
+        <city>Kyiv</city>
+        <street>Obolon</street>
+    </city>
+    <city size="Big">
+        <building>150</building>
+        <city>Lviv</city>
+        <street>Protasiv</street>
+    </city>
+</addresses>
